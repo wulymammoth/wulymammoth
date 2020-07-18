@@ -9,6 +9,6 @@ _tolle fuga ad astra_ 🚀 ✨
 
 ---
 
-- self-taught . applied computer science . code for fun . sports fanatic (NBA, NFL) . hip-hop . fueled by imposter-syndrome 😬
+- applied computer science . code for fun . sports fanatic (NBA, NFL) . hip-hop . fueled by imposter-syndrome 😬
 - programming languages (use or dabbling/dabbled in): Elixir, Erlang, Python, Ruby, Clojure, Rust, Go, JavaScript, Kotlin
 - fast keyboard-centric (mouseless) workflows: Alacritty, Neovim, fzf, ripgrep, tmux
