@@ -1,6 +1,6 @@
 _tolle fuga ad astra_ 🚀 ✨
 
-👋 Hi there, stranger! I'm David. I'm primarily a self-taught software developer
+👋 Hi there, stranger! I'm David. I'm primarily a self-taught software developer. Feel free to ask me questions by submitting a pull request against my [AMA repository](https://github.com/wulymammoth/AMA)
 
 ---
 
