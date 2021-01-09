@@ -1,6 +1,6 @@
 _tolle fuga ad astra_ 🚀 ✨
 
-👋 Hi there, stranger! I'm David -- primarily a self-taught software developer in perpetual search of declarative and performant solutions to problems
+👋 Hi there, stranger! I'm David. I do keyboard cat things
 
 ---
 
