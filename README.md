@@ -2,7 +2,7 @@ _tolle fuga ad astra_ 🚀 ✨
 
 ---
 
-👋 Hi there, stranger! I'm David. I do keyboard cat things
+Hi there, stranger! 👋  I'm David. I do keyboard cat things and enjoy sharing them with others. I enjoy collaborative work where all involved are learning, challenged, and having a good time doing it
 
 ---
 
