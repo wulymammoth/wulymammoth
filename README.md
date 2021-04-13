@@ -2,14 +2,14 @@ _tolle fuga ad astra_ 🚀 ✨
 
 ---
 
-Hi there, stranger! 👋  I'm David. I do keyboard cat things and enjoy sharing them with others. I enjoy collaborative work where all involved are learning, challenged, and having a good time doing it
+Hi there, stranger! 👋  I'm David. I do keyboard cat things and enjoy sharing them with others. I enjoy collaborative work where all involved are learning, challenged, and having a good time doing it.
 
 ---
 
 **quick-hitters/about**
 
-- applied computer science . code for fun . sports fanatic (NBA, NFL) . hip-hop . fueled by imposter-syndrome 😬
-- programming languages (using or dabbling/dabbled in) : Elixir, Erlang, Python, Ruby, Clojure, Rust, Go, JavaScript, Kotlin, Haskell, and many more
+- applied computer science . programming is a pastime . sports fanatic (NBA, NFL) . hip-hop . EDM . fueled by imposter-syndrome 😬
+- programming languages (using/dabbling/dabbled) : PureScript, Elixir, Erlang, Python, Ruby, Clojure, Rust, Go, JavaScript, Kotlin, Haskell, and many more
 - fast keyboard-centric (mouseless) workflows : Unix utilities, Alacritty (terminal), NeoVim/Vim, fzf, ripgrep, tmux
 
 ---
