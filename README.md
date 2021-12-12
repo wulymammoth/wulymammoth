@@ -2,7 +2,7 @@ _tolle fuga ad astra_ 🚀 ✨
 
 ---
 
-👋  I'm David -- I mash keys on a spaceship-lookin' keyboard, the [Kinesis Advantage 2](https://kinesis-ergo.com/shop/advantage2/) and use a vertical mouse, the [Evoluent VMDMW](https://evoluent.com/products/vmdmw/) and it sometimes ends up having utility
+👋  I'm David -- I mash keys on a spaceship-lookin' keyboard [(Kinesis Advantage 2)](https://kinesis-ergo.com/shop/advantage2/) and wonky mouse [(Evoluent VMDMW)](https://evoluent.com/products/vmdmw/) and sometimes produce things of utility
 
 ---
 
