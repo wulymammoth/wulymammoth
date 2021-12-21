@@ -8,7 +8,7 @@ _tolle fuga ad astra_ 🚀 ✨
 
 **quick-hitters/about**
 
-- applied computer science . programming is a pastime . sports fanatic (NBA, NFL) . hip-hop . EDM . fueled by imposter-syndrome 😬
+- applied computer science . programming is a pastime . sports fanatic (NBA, NFL) . hip-hop . fueled by imposter-syndrome 😬
 - programming languages (using/dabbling/dabbled) : Solidity, PureScript, Elixir, Erlang, Python, Ruby, Clojure, Rust, Go, JavaScript, Kotlin, Haskell, and many more
 - fast keyboard-centric (mouseless) workflows : Unix utilities, Alacritty (terminal), NeoVim/Vim, fzf, ripgrep, tmux
 
