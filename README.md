@@ -16,5 +16,5 @@ _tolle fuga ad astra_ 🚀 ✨
 
 **technical interests (present)**
 
-- distributed systems protocols, data-structures, and algorithms, particularly those being used in distributed ledgers, e.g. blockchains
 - declarative programming with functional and/or reactive languages and how they can yield less buggy and more robust systems
+- distributed systems protocols, data-structures, algorithms
