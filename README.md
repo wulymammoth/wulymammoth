@@ -2,15 +2,15 @@ _tolle fuga ad astra_ 🚀 ✨
 
 ---
 
-👋  I'm David -- I mash keys on a weird-lookin' keyboard [(Kinesis Advantage 2)](https://kinesis-ergo.com/shop/advantage2/) and a wonky mouse [(Evoluent VMDMW)](https://evoluent.com/products/vmdmw/), and at times, produce things of utility.
+👋  I'm David -- I mash keys on a weird-lookin' ergo-keeb [(Kinesis Advantage 2)](https://kinesis-ergo.com/shop/advantage2/) and a wonky mouse [(Evoluent VMDMW)](https://evoluent.com/products/vmdmw/), and intermittently produce things of utility.
 
 ---
 
 **quick-hitters/about**
 
-- applied pseudo-computer science . programming at times be a pastime . pickleball . sports fanatic (NBA, NFL) . hip-hop . perpetual imposter-syndrome
-- programming languages (using/dabbling/dabbled) : Elixir, Erlang, Python, Ruby, Clojure, Rust, Go, JavaScript, TypeScript, Kotlin, Haskell, and cargo-culting whatever Hacker News seemingly likes to mention
-- fast keyboard-centric (mouseless) workflows : Unix utilities, WezTerm (terminal), Neovim/Vim, fzf, ripgrep, tmux
+- applied computer sci-fi . programming as a pastime . pickleball . sports junkie (NBA, NFL) . hip-hop . perpetual imposter-syndrome
+- programming languages (using/dabbling/dabbled) : Elixir, Erlang, Python, Ruby, Clojure, Rust, Go, JavaScript, TypeScript, Kotlin, Haskell, and cargo-culting Hacker News
+- fast keyboard-centric (mouseless) workflows : Unix utilities and TUIs, Ghostty, Neovim, tmux
 
 ---
 
