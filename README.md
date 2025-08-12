@@ -10,6 +10,7 @@ _tolle fuga ad astra_ 🚀 ✨
 
 - applied computer sci-fi . programming as a pastime . pickleball . sports junkie (NBA, NFL) . hip-hop . perpetual imposter-syndrome
 - programming languages (using/dabbling/dabbled) : Elixir, Erlang, Python, Ruby, Clojure, Rust, Go, JavaScript, TypeScript, Kotlin, Haskell, and cargo-culting Hacker News
+- databases : SQLite, MySQL, PostgeSQL, Cassandra, DynamoDB, Redis, Elasticsearch, Algolia
 - fast keyboard-centric (mouseless) workflows : Unix utilities and TUIs, Ghostty, Neovim, tmux
 
 ---
