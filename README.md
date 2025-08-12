@@ -2,7 +2,7 @@ _tolle fuga ad astra_ 🚀 ✨
 
 ---
 
-👋  I'm David -- I mash keys on a weird-lookin' ergo-keeb [(Kinesis Advantage 2)](https://kinesis-ergo.com/shop/advantage2/) and a wonky mouse [(Evoluent VMDMW)](https://evoluent.com/products/vmdmw/), and intermittently produce things of utility.
+👋  I'm David -- I mash keys on a weird-lookin' ergo-keeb [(Kinesis Advantage 2)](https://kinesis-ergo.com/shop/advantage2/), a wonky mouse [(Evoluent VMDMW)](https://evoluent.com/products/vmdmw/), and, at times, produce things of utility.
 
 ---
 
